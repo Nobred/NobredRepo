@@ -1,0 +1,210 @@
+Package: com.hackyouriphone.anydrop3
+Version: 1.1-12k
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.anydrop, com.repo.xarold.com.anydrop
+Filename: debs//com.hackyouriphone.anydrop3_1.1-12k_iphoneos-arm.deb
+Size: 2668052
+MD5sum: 2d48ed0ff9dec096bfe5e68ba96a3c8c
+SHA1: b96e4dac1343c8f511037c782ef120d0df8b041a
+SHA256: 5a6951690bb598050dbe61fed880232ee039708a9c20aadba68ef42ea8d6088b
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=anydrop3
+Description: All-in-one sharing utility! Cracked by Ã–nder Azazi
+Author: Majd Alfhaily <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=anydrop3
+Name: AnyDrop 3 (iOS 8 & 7)
+
+Package: com.modmyi.flipcontrolcenterios8theme
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Filename: debs//com.modmyi.flipcontrolcenterios8theme_1.2_iphoneos-arm.deb
+Size: 34618
+MD5sum: e97801cb7066efdc46166e70a78e62d9
+SHA1: 7c1bd6e27ab4f5ff9b14f2a5b2191c75eeb6173c
+SHA256: e85a97a5e6585d57c513fba822e04aeaf281b8df2924cef965d197616e63ba67
+Section: Themes (System)
+Priority: extra
+Homepage: http://modmyi.com/info/flipcontrolcenterios8theme.php
+Description: FlipControlCenter iOS8 theme
+Author: ARX8 <swordsmanlord@gmail.com>
+Depiction: http://modmyi.com/info/flipcontrolcenterios8theme.d.php
+Name: FlipControlCenter iOS8 theme
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.myrepospace.nocydiarep-list
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nobred <nobred@mail.ru>
+Filename: debs//NoCydiaRepos.deb
+Size: 782
+MD5sum: d133a6361f40bbd22139ef52cf70c53e
+SHA1: 5947f8cd5eb74fc7731aff2fd518938c50713e24
+SHA256: fb462857fb7a4d00d3d1c28a0b0cd172439cb9b02b6182248ea4067547135912
+Section: MyRepoSpace.com
+Description: My Cydia repos
+Author: Nobred
+Depiction: http://www.myrepospace.com/
+Name: NoCydiaRepos
+Sponsor: myRepoSpace.com <http://www.myrepospace.com/>
+
+Package: com.spiritoflogic.pwntunes.ios8
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: SpiritOfLogic <support@pwntunes.net>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), shell-cmds, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: pwntunes, pwntunes.ios7, com.spiritoflogic.pwntunes.ios7
+Replaces: pwntunes, pwntunes.ios7, com.spiritoflogic.pwntunes.ios7
+Filename: debs//com.spiritoflogic.pwntunes.ios8_1.0.0.1_iphoneos-arm.deb
+Size: 672158
+MD5sum: aa0a1a9436e39ea847dc509e99caaf44
+SHA1: 78b7e342e2a6576084733edde0e00aa80f038d9e
+SHA256: 040de6dd0ba1b06f49bfd6430c86427951f870811ca7397d7bd359a20b29effc
+Section: Data Storage
+Homepage: http://www.pwntunes.net/
+Description: Drag&Drop Music Import without iTunes... - like USBStick,PictureFileLibraryImportExportSyncStoreShareTransferMP3ID3DCIMPhotosVideosSongsSupportsiFileMewSeekCelesteReplacesSwapTunesMP3PlayeriPodNoCrack
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Author: SpiritOfLogic <support@pwntunes.net>
+Depiction: http://www.pwntunes.net/cydia/pwntunes.ios8/
+Dev: spiritoflogic
+Icon: file:///Applications/PwnTunes.app/Icon.png
+Name: PwnTunes for iOS 8
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+
+Package: com.sull.mobileterminal
+Version: 520-1
+Architecture: iphoneos-arm
+Maintainer: insanelyi <noreply@insanelyi.com>
+Installed-Size: 648
+Pre-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds, apt7, com.ericasadun.utilities
+Conflicts: com.sull.mobileterminal2, mobileterminal, com.googlecode.mobileterminal.Terminal, com.xsellize.mobileterminal, com.podulo.mobileterminalnew, com.ihacksrepo.mobileterminalnew, com.icausefx.mobileterminal, com.hacktouch.mobileterminal, com.hackyouriphone.mobileterminal
+Filename: debs//com.sull.mobileterminal_520-1_iphoneos-arm.deb
+Size: 238194
+MD5sum: 5ecd192857376bf151cf18ad4f7037e0
+SHA1: 6352210069742dd4f53c1702c58df8816b9f3aa1
+SHA256: f7e38dfd62778f47477fb8365a0f8aeba01dd147cfb47db5afbddaf0e83e47da
+Section: iSystem
+Priority: standard
+Homepage: http://insanelyi.com
+Description: iPhone 3G(s) 4 and iPad!
+Tag: insanelyi::team
+Author: Allen Porter
+Depiction: http://repo.insanelyi.com/depiction.php?package=mobileterminal
+Name: MobileTerminal (NEW)
+Sponsor: insanelyi <http://insanelyi.com>
+
+Package: com.sull.springtomize3ios7
+Version: 1.3.0-7
+Architecture: iphoneos-arm
+Maintainer: insanelyi <noreply@insanelyi.com>
+Installed-Size: 2512
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Conflicts: com.filippobiga.springtomize2, com.sull.springtomize2ios5
+Filename: debs//com.sull.springtomize3ios7_1.3.0-7_iphoneos-arm.deb
+Size: 815170
+MD5sum: a47857654a7ee8b3498a96a83d5c5ea8
+SHA1: b374115b477cad88cbcd257703a0850330c5c874
+SHA256: d17a7f951ee3fa3e76f1fa947234571cbdde6542ba5937960a4f534a3174856d
+Section: iTweaks
+Homepage: http://insanelyi.com
+Description: Customize your device like never before.
+Author: Filippo & Giulio
+Depiction: http://repo.insanelyi.com/depiction.php?package=springtomize3ios7
+Icon: file:///Library/PreferenceBundles/ST3Settings.bundle/icons/Main@2x.png
+Name: Springtomize 3 (iOS 7 & 8)
+Sponsor: insanelyi <http://insanelyi.com>
+
+Package: com.was.samba
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 3
+Depends: samba
+Conflicts: samba-controller
+Filename: debs//sambainetd_1.1.deb
+Size: 1858
+MD5sum: d9cf6690b780f6672484118209576c65
+SHA1: f6198512c4c624588daec4e764d1db2f6a556d26
+SHA256: fac841f2aac7a871e55f3b6e3c0ae5215d281669ed0876a26a0be757a22489f5
+Section: Networking
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sambainetdDp
+Description: loads samba from inetd automatically
+ The package uses launchctl to load and unload the smbd and nmbd daemons by listening on their ports. The advantage is that the daemons will be stopped when Samba is not being used. This replaces the samba-controller package but you need to ssh to your device and set a samba password using smbpasswd before attempting to connect via Samba to the device.
+Tag: purpose::console
+Author: Wizardry and Steamworks <office@grimore.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sambainetdDp
+Dev: wizardryandsteamworks
+Name: samba inetd
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: samba
+Version: 3.5.15
+Architecture: iphoneos-arm
+Maintainer: Tom Zickel <iossamba@gmail.com>
+Installed-Size: 34248
+Conflicts: samba-core
+Replaces: samba-core
+Filename: debs//samba_3.5.15_iphoneos-arm.deb
+Size: 8241518
+MD5sum: fa08c8a794689cb4cf307f03d8bb9165
+SHA1: 59920f2de518cd467058e8d65b27316fa24b7303
+SHA256: ac5fababcca0da9e8772894e9bb0a77ecc21ef6c1918524aa4c0c2ee754b429e
+Section: Networking
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sambaCoreData
+Description: Windows (SMB/CIFS) filesharing and networking
+Tag: role::hacker
+Author: Tom Zickel <iossamba@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sambaCoreData
+Dev: db42
+Name: Samba Core
+
+Package: samba-controller
+Version: 0.1-6
+Architecture: iphoneos-arm
+Maintainer: Tom Zickel <iossamba@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate, preferenceloader, grep, samba
+Conflicts: com.db.samba, com.openhebrew.samba, com.oranav.sambatoggle
+Filename: debs//samba-controller_0.1-6.deb
+Size: 44284
+MD5sum: 94376aae19174b4f114abfdab8107849
+SHA1: 3049b753625874f0345eaaac1ce1bc24cd94156d
+SHA256: 957473a2fe0028e48815e4ac8f9d647dba999a85aee16d229581fdc295715c66
+Section: Networking
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sambaControllerData
+Description: Required package for starting / configuring the samba service from the GUI (Settings app).
+Author: Tom Zickel <iossamba@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sambaControllerData
+Dev: db42
+Name: Samba
+
+Package: tw.hiraku.ikeywi3
+Version: 3.1.0-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 706
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, com.tw3pole.exkey, gsc.ipad
+Filename: debs//tw.hiraku.ikeywi3_3.1.0-3_iphoneos-arm.deb
+Size: 246250
+MD5sum: b3d5adb7ab135ed63029c792cd8dfe8e
+SHA1: f021fe6c04d3de1be80a3887841d5a8eb9628d79
+SHA256: 2d189c78ddaab93dd12baf998335e0659531e16d1192811957064bac443e0bf1
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ikeywi3Dp
+Description: Customizable Extra Row for Keyboards
+Tag: cydia::commercial, purpose::extension, compatible::ios8
+Author: Hiraku <dev@hiraku.tw>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ikeywi3Dp
+Dev: hiraku
+Icon: file:///Library/PreferenceBundles/iKeywi3.bundle/Icon@2x.png
+Name: iKeywi 3 (iOS 8)
+Sponsor: thebigboss.org <http://thebigboss.org>
+

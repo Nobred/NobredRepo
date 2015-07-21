@@ -1,0 +1,9 @@
+Website: http://www.yoursite.com 
+Maintainer: You. 
+Name: Name of package. 
+Package: Bundle identifier. 
+Section: Where in Cydia it wil appear. 
+Version: Package version. 
+Architecture: iphoneos-arm 
+Description: Information about package. 
+Sponsor: You
